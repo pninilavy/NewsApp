@@ -1,0 +1,189 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\WIN 11\\Desktop\\RssNewsApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{399D7148-DE56-4C56-A694-3C7DA2EEB1F7}|RssNewsApp\\RssNewsApp.csproj|c:\\users\\win 11\\desktop\\rssnewsapp\\rssnewsapp\\pages\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{399D7148-DE56-4C56-A694-3C7DA2EEB1F7}|RssNewsApp\\RssNewsApp.csproj|solutionrelative:rssnewsapp\\pages\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{399D7148-DE56-4C56-A694-3C7DA2EEB1F7}|RssNewsApp\\RssNewsApp.csproj|C:\\Users\\WIN 11\\Desktop\\RssNewsApp\\rssnewsapp\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{399D7148-DE56-4C56-A694-3C7DA2EEB1F7}|RssNewsApp\\RssNewsApp.csproj|solutionrelative:rssnewsapp\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{399D7148-DE56-4C56-A694-3C7DA2EEB1F7}|RssNewsApp\\RssNewsApp.csproj|C:\\Users\\WIN 11\\Desktop\\RssNewsApp\\rssnewsapp\\repository\\rssrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{399D7148-DE56-4C56-A694-3C7DA2EEB1F7}|RssNewsApp\\RssNewsApp.csproj|solutionrelative:rssnewsapp\\repository\\rssrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{399D7148-DE56-4C56-A694-3C7DA2EEB1F7}|RssNewsApp\\RssNewsApp.csproj|C:\\Users\\WIN 11\\Desktop\\RssNewsApp\\rssnewsapp\\pages\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{399D7148-DE56-4C56-A694-3C7DA2EEB1F7}|RssNewsApp\\RssNewsApp.csproj|solutionrelative:rssnewsapp\\pages\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{399D7148-DE56-4C56-A694-3C7DA2EEB1F7}|RssNewsApp\\RssNewsApp.csproj|C:\\Users\\WIN 11\\Desktop\\RssNewsApp\\rssnewsapp\\pages\\default.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{399D7148-DE56-4C56-A694-3C7DA2EEB1F7}|RssNewsApp\\RssNewsApp.csproj|solutionrelative:rssnewsapp\\pages\\default.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{399D7148-DE56-4C56-A694-3C7DA2EEB1F7}|RssNewsApp\\RssNewsApp.csproj|C:\\Users\\WIN 11\\Desktop\\RssNewsApp\\rssnewsapp\\scripts\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{399D7148-DE56-4C56-A694-3C7DA2EEB1F7}|RssNewsApp\\RssNewsApp.csproj|solutionrelative:rssnewsapp\\scripts\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{399D7148-DE56-4C56-A694-3C7DA2EEB1F7}|RssNewsApp\\RssNewsApp.csproj|C:\\Users\\WIN 11\\Desktop\\RssNewsApp\\rssnewsapp\\styles\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{399D7148-DE56-4C56-A694-3C7DA2EEB1F7}|RssNewsApp\\RssNewsApp.csproj|solutionrelative:rssnewsapp\\styles\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{399D7148-DE56-4C56-A694-3C7DA2EEB1F7}|RssNewsApp\\RssNewsApp.csproj|C:\\Users\\WIN 11\\Desktop\\RssNewsApp\\rssnewsapp\\models\\newsitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{399D7148-DE56-4C56-A694-3C7DA2EEB1F7}|RssNewsApp\\RssNewsApp.csproj|solutionrelative:rssnewsapp\\models\\newsitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\WIN 11\\Desktop\\RssNewsApp\\RssNewsApp\\App_Code\\Repository\\RssRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RssNewsApp\\App_Code\\Repository\\RssRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\WIN 11\\Desktop\\RssNewsApp\\RssNewsApp\\App_Code\\Models\\NewsItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RssNewsApp\\App_Code\\Models\\NewsItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Default.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\WIN 11\\Desktop\\RssNewsApp\\RssNewsApp\\Pages\\Default.aspx.designer.cs",
+              "RelativeDocumentMoniker": "RssNewsApp\\Pages\\Default.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\WIN 11\\Desktop\\RssNewsApp\\RssNewsApp\\Pages\\Default.aspx.designer.cs",
+              "RelativeToolTip": "RssNewsApp\\Pages\\Default.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T21:03:38.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\WIN 11\\Desktop\\RssNewsApp\\RssNewsApp\\Styles\\site.css",
+              "RelativeDocumentMoniker": "RssNewsApp\\Styles\\site.css",
+              "ToolTip": "C:\\Users\\WIN 11\\Desktop\\RssNewsApp\\RssNewsApp\\Styles\\site.css",
+              "RelativeToolTip": "RssNewsApp\\Styles\\site.css",
+              "ViewState": "AgIAADgAAAAAAAAAAAAUwEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-10-20T21:08:40.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\WIN 11\\Desktop\\RssNewsApp\\RssNewsApp\\Web.config",
+              "RelativeDocumentMoniker": "RssNewsApp\\Web.config",
+              "ToolTip": "C:\\Users\\WIN 11\\Desktop\\RssNewsApp\\RssNewsApp\\Web.config",
+              "RelativeToolTip": "RssNewsApp\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-10-20T19:54:35.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\WIN 11\\Desktop\\RssNewsApp\\RssNewsApp\\Scripts\\site.js",
+              "RelativeDocumentMoniker": "RssNewsApp\\Scripts\\site.js",
+              "ToolTip": "C:\\Users\\WIN 11\\Desktop\\RssNewsApp\\RssNewsApp\\Scripts\\site.js",
+              "RelativeToolTip": "RssNewsApp\\Scripts\\site.js",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAowCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-10-20T19:53:29.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NewsItem.cs",
+              "DocumentMoniker": "C:\\Users\\WIN 11\\Desktop\\RssNewsApp\\RssNewsApp\\Models\\NewsItem.cs",
+              "RelativeDocumentMoniker": "RssNewsApp\\Models\\NewsItem.cs",
+              "ToolTip": "C:\\Users\\WIN 11\\Desktop\\RssNewsApp\\RssNewsApp\\Models\\NewsItem.cs",
+              "RelativeToolTip": "RssNewsApp\\Models\\NewsItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T17:24:58.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\WIN 11\\Desktop\\RssNewsApp\\RssNewsApp\\Pages\\Default.aspx",
+              "RelativeDocumentMoniker": "RssNewsApp\\Pages\\Default.aspx",
+              "ToolTip": "C:\\Users\\WIN 11\\Desktop\\RssNewsApp\\RssNewsApp\\Pages\\Default.aspx",
+              "RelativeToolTip": "RssNewsApp\\Pages\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-10-20T17:24:29.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RssRepository.cs",
+              "DocumentMoniker": "C:\\Users\\WIN 11\\Desktop\\RssNewsApp\\RssNewsApp\\Repository\\RssRepository.cs",
+              "RelativeDocumentMoniker": "RssNewsApp\\Repository\\RssRepository.cs",
+              "ToolTip": "C:\\Users\\WIN 11\\Desktop\\RssNewsApp\\RssNewsApp\\Repository\\RssRepository.cs",
+              "RelativeToolTip": "RssNewsApp\\Repository\\RssRepository.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAQwA0AAAByAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T17:18:14.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Default.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\WIN 11\\Desktop\\RssNewsApp\\RssNewsApp\\Pages\\Default.aspx.cs",
+              "RelativeDocumentMoniker": "RssNewsApp\\Pages\\Default.aspx.cs",
+              "ToolTip": "C:\\Users\\WIN 11\\Desktop\\RssNewsApp\\RssNewsApp\\Pages\\Default.aspx.cs",
+              "RelativeToolTip": "RssNewsApp\\Pages\\Default.aspx.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwBUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T16:51:48.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RssRepository.cs",
+              "DocumentMoniker": "C:\\Users\\WIN 11\\Desktop\\RssNewsApp\\RssNewsApp\\App_Code\\Repository\\RssRepository.cs",
+              "RelativeDocumentMoniker": "RssNewsApp\\App_Code\\Repository\\RssRepository.cs",
+              "ToolTip": "C:\\Users\\WIN 11\\Desktop\\RssNewsApp\\RssNewsApp\\App_Code\\Repository\\RssRepository.cs",
+              "RelativeToolTip": "RssNewsApp\\App_Code\\Repository\\RssRepository.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T16:04:09.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NewsItem.cs",
+              "DocumentMoniker": "C:\\Users\\WIN 11\\Desktop\\RssNewsApp\\RssNewsApp\\App_Code\\Models\\NewsItem.cs",
+              "RelativeDocumentMoniker": "RssNewsApp\\App_Code\\Models\\NewsItem.cs",
+              "ToolTip": "C:\\Users\\WIN 11\\Desktop\\RssNewsApp\\RssNewsApp\\App_Code\\Models\\NewsItem.cs",
+              "RelativeToolTip": "RssNewsApp\\App_Code\\Models\\NewsItem.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T15:48:20.499Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
