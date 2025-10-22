@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Net;
-using System.Runtime.Caching;
+using System.Web;
 using System.ServiceModel.Syndication;
+using System.Web.Caching;
 using System.Xml;
 using RssNewsApp.Models;
 
@@ -12,13 +12,13 @@ namespace RssNewsApp.Repository
     public class RssRepository
     {
         private readonly string _rssUrl = "https://www.globes.co.il/webservice/rss/rssfeeder.asmx/FeederNode?iID=2";
-        private readonly ObjectCache _cache = MemoryCache.Default;
         private readonly string _cacheKey = "GlobesRssCache";
 
         public List<NewsItem> GetNews(bool forceRefresh = false)
         {
             //שליפת רשימת החדשות מהזכרון
-            var news = _cache.Get(_cacheKey) as List<NewsItem>;
+            var cache=HttpRuntime.Cache;
+            var news = cache[_cacheKey] as List<NewsItem>;
             if (news != null && !forceRefresh)
                 return news;
             //אם לא קיים יצירת החדשות מחדש 
@@ -54,7 +54,13 @@ namespace RssNewsApp.Repository
                 }
 
                 // שמירה בזכרןו לחצי שעה
-                _cache.Set(_cacheKey, items, DateTimeOffset.Now.AddMinutes(30));
+                cache.Insert(
+                   _cacheKey,
+                   items,
+                   null,
+                   DateTime.Now.AddMinutes(30),
+                   System.Web.Caching.Cache.NoSlidingExpiration
+               );
             }
             catch (Exception ex)
             {
