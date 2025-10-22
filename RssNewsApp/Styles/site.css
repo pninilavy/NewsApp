@@ -1,4 +1,5 @@
-﻿body {
+﻿/* עיצוב כללי של הדף */
+body {
     direction: rtl;
     background-color: #f8f9fa;
     font-family: "Segoe UI", Arial, sans-serif;
@@ -17,12 +18,13 @@ header {
         font-size: 2rem;
         margin: 0;
     }
+/* רכיב לכל כרטיסי החדשות */
 
 .news-container {
     max-width: 900px;
     margin: auto;
 }
-
+/* עיצוב כרטיס חדשות */
 .news-card {
     background-color: white;
     border: 1px solid #ddd;
@@ -33,17 +35,17 @@ header {
     transition: all 0.3s ease;
     cursor: pointer;
 }
+    /* מצב שבו כרטיס פתוח */
 
     .news-card.open {
         background-color: #fff6f6;
         border-color: #b60000;
         box-shadow: 0 4px 12px rgba(182,0,0,0.15);
     }
-
+/*  התוכן של כרטיס החדשות */
 .news-content {
     padding: 20px;
 }
-
     .news-content h4 {
         color: #b60000;
         font-size: 1.3rem;
@@ -53,7 +55,7 @@ header {
         color: gray;
         font-size: 0.9rem;
     }
-
+/*גוף המאמר*/
 .article-body {
     display: none;
     border-top: 1px solid #ddd;

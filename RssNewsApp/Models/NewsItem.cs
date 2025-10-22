@@ -2,6 +2,7 @@
 
 namespace RssNewsApp.Models
 {
+    //מחלקה לחדשה בודדת
     public class NewsItem
     {
         public string Id { get; set; }
